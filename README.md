@@ -4,10 +4,6 @@ APLICACION FIRMADA
 
 DSTUDIOVISUAL
 
-ESTRICTAMENTE PROHIBIDO
-Si se realiza venta de este codigo sin nuestra autorizacion 
-se demandara por derechos de autor.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
